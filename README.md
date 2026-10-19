@@ -14,5 +14,5 @@ I am a passionate **Advanced Systems Network Administration (ASIR)** student bas
 *   **Languages:** Spanish (Native), English (Professional Working Proficiency - B2).
 
 ### 📬 Connect with me
-*   💼 **LinkedIn:** [Enlace a tu LinkedIn]
+*   💼 **LinkedIn:** https://www.linkedin.com/in/alberto-ortiz-de-mendivil-3ba47a364/
 *   📧 **Email:** albertoortizdemendivil@gmail.com
