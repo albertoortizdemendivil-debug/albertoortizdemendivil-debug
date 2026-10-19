@@ -9,7 +9,7 @@ I build small, segmented Linux environments and document them so someone else ca
 | Project | What it shows |
 | --- | --- |
 | [**homelab**](https://github.com/albertoortizdemendivil-debug/homelab) | Encrypted home NAS on Ubuntu Server 24.04: LUKS2, Samba, Tailscale (no open ports), SSH key-only with fail2ban and ufw, plus a runbook written after a real incident. |
-| [**Networking**](https://github.com/albertoortizdemendivil-debug/Networking) | Seven Debian 12 labs: routing and NAT, DHCP, DNS (BIND9), FTP (vsftpd), Apache, mail (Postfix/Dovecot) and an iptables firewall, each with verification tests. |
+| [**linux-network-services-lab-2025**](https://github.com/albertoortizdemendivil-debug/linux-network-services-lab-2025) | Seven Debian 12 labs: routing and NAT, DHCP, DNS (BIND9), FTP (vsftpd), Apache, mail (Postfix/Dovecot) and an iptables firewall, each with verification tests. |
 
 ## What I work with
 
