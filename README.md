@@ -1,18 +1,41 @@
-# Hi, I'm Alberto! 👋
+# Alberto Ortiz de Mendivil
 
-I am a passionate **Advanced Systems Network Administration (ASIR)** student based in Spain, actively preparing my transition to the infrastructure and networking job market in **Central Europe (Germany, Austria, Switzerland)**.
+Junior systems and network administrator (ASIR student, Álava, Spain), looking for entry-level roles in Germany and Austria. Spanish citizen, no work visa needed.
 
-### 🚀 What I'm currently working on
-*   🌐 Deepening my networking skills through the **Cisco CCNA** curriculum.
-*   🛠️ Building a comprehensive **Home Lab portfolio** detailing corporate services deployment.
-*   🤖 Exploring Infrastructure as Code (IaC) using Ansible and Linux automation.
+I build small, segmented Linux environments and document them so someone else can reproduce them: LAN/DMZ networks, core services and a secured home server.
 
-### 🛠️ Technical Toolkit
-*   **Networking:** Cisco Systems, Routing & Switching, Firewalls (DMZ Architecture).
-*   **Systems:** Linux (Debian/Ubuntu), Windows Server (Active Directory).
-*   **Data & DevOps:** SQL, Markdown, HTML/CSS, XML/JSON.
-*   **Languages:** Spanish (Native), English (Professional Working Proficiency - B2).
+## Start here
 
-### 📬 Connect with me
-*   💼 **LinkedIn:** https://www.linkedin.com/in/alberto-ortiz-de-mendivil-3ba47a364/
-*   📧 **Email:** albertoortizdemendivil@gmail.com
+| Project | What it shows |
+| --- | --- |
+| [**homelab**](https://github.com/albertoortizdemendivil-debug/homelab) | Encrypted home NAS on Ubuntu Server 24.04: LUKS2, Samba, Tailscale (no open ports), SSH key-only with fail2ban and ufw, plus a runbook written after a real incident. |
+| [**Networking**](https://github.com/albertoortizdemendivil-debug/Networking) | Seven Debian 12 labs: routing and NAT, DHCP, DNS (BIND9), FTP (vsftpd), Apache, mail (Postfix/Dovecot) and an iptables firewall, each with verification tests. |
+
+## What I work with
+
+- **Networking:** routing, NAT, LAN/DMZ segmentation, iptables, DHCP, DNS
+- **Linux:** Debian and Ubuntu Server administration, SSH hardening, disk encryption (LUKS), Samba, Docker Compose
+- **Windows:** Windows Server and Active Directory (coursework)
+- **Other:** SQL, Git, Markdown documentation
+
+## Currently
+
+- Preparing **Cisco CCNA** (exam planned for summer 2027)
+- Completing Cisco Networking Academy technical English courses
+- Extending the homelab: backups with restic, monitoring with Uptime Kuma, DNS filtering with AdGuard Home
+
+## Languages
+
+| Language | Level |
+| --- | --- |
+| Spanish | Native |
+| Basque | B2 |
+| English | B2 (self-assessed, no official certificate yet); some of my higher-level subjects, such as networking and markup languages, are taught in English |
+| German | A1, learning; aiming for A2 by May 2027 |
+
+Project documentation is available in English. English versions were translated with AI assistance; the lab work and configurations are my own.
+
+## Contact
+
+- LinkedIn: [alberto-ortiz-de-mendivil](https://www.linkedin.com/in/alberto-ortiz-de-mendivil-3ba47a364/)
+- Email: albertoortizdemendivil@gmail.com
