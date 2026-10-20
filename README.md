@@ -9,13 +9,15 @@ I build small, segmented Linux environments and document them so someone else ca
 | Project | What it shows |
 | --- | --- |
 | [**homelab**](https://github.com/albertoortizdemendivil-debug/homelab) | Encrypted home NAS on Ubuntu Server 24.04: LUKS2, Samba, Tailscale (no open ports), SSH key-only with fail2ban and ufw, plus a runbook written after a real incident. |
-| [**linux-network-services-lab-2025**](https://github.com/albertoortizdemendivil-debug/linux-network-services-lab-2025) | Seven Debian 12 labs: routing and NAT, DHCP, DNS (BIND9), FTP (vsftpd), Apache, mail (Postfix/Dovecot) and an iptables firewall, each with verification tests. |
+| [**linux-network-services-lab**](https://github.com/albertoortizdemendivil-debug/linux-network-services-lab) | My first networking project: seven Debian 12 labs on a LAN/DMZ network. Routing and NAT, DHCP, DNS (BIND9), FTP (vsftpd), Apache with HTTPS, mail (Postfix/Dovecot) and an iptables firewall, with verification tests and 160+ screenshots. |
+| [**html-css-markup-languages**](https://github.com/albertoortizdemendivil-debug/html-css-markup-languages) | Five websites built in order, from semantic HTML to a six-page Bootstrap site. |
 
 ## What I work with
 
-- **Networking:** routing, NAT, LAN/DMZ segmentation, iptables, DHCP, DNS
+- **Networking:** routing, NAT, LAN/DMZ segmentation, iptables, DHCP, DNS, subnetting and VLSM
 - **Linux:** Debian and Ubuntu Server administration, SSH hardening, disk encryption (LUKS), Samba, Docker Compose
 - **Windows:** Windows Server and Active Directory (coursework)
+- **Web basics:** HTML, CSS, Bootstrap
 - **Other:** SQL, Git, Markdown documentation
 
 ## Currently
@@ -23,6 +25,7 @@ I build small, segmented Linux environments and document them so someone else ca
 - Preparing **Cisco CCNA** (exam planned for summer 2027)
 - Completing Cisco Networking Academy technical English courses
 - Extending the homelab: backups with restic, monitoring with Uptime Kuma, DNS filtering with AdGuard Home
+- A second networking repository will follow with my current coursework
 
 ## Languages
 
