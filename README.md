@@ -2,7 +2,7 @@
 
 Junior systems and network administrator (ASIR student, Álava, Spain), looking for entry-level roles in Germany and Austria. Spanish citizen, no work visa needed.
 
-I build small, segmented Linux environments and document them so someone else can reproduce them: LAN/DMZ networks, core services and a secured home server.
+I build small, segmented Linux environments and document them so someone else can replicate them: LAN/DMZ networks, core services and a secured home server.
 
 ## Start here
 
