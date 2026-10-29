@@ -9,8 +9,8 @@ I build small, segmented Linux environments and document them so someone else ca
 | Project | What it shows |
 | --- | --- |
 | [**homelab**](https://github.com/albertoortizdemendivil-debug/homelab) | Encrypted home NAS on Ubuntu Server 24.04: LUKS2, Samba, Tailscale (no open ports), SSH key-only with fail2ban and ufw, plus a runbook written after a real incident. |
-| [**linux-network-services-lab**](https://github.com/albertoortizdemendivil-debug/linux-network-services-lab-2025) | My first networking project: seven Debian 12 labs on a LAN/DMZ network. Routing and NAT, DHCP, DNS (BIND9), FTP (vsftpd), Apache with HTTPS, mail (Postfix/Dovecot) and an iptables firewall, with verification tests and 160+ screenshots. |
-| [**html-css-markup-languages**](https://github.com/albertoortizdemendivil-debug/html-css-markup-languages) | Five websites built in order, from semantic HTML to a six-page Bootstrap site. |
+| [**linux-network-services-lab-2025**](https://github.com/albertoortizdemendivil-debug/linux-network-services-lab-2025) | My first networking project: seven Debian 12 labs on a LAN/DMZ network. Routing and NAT, DHCP, DNS (BIND9), FTP (vsftpd), Apache with HTTPS, mail (Postfix/Dovecot) and an iptables firewall, with verification tests and 160+ screenshots. |
+| [**html-css-markup-languages**](https://github.com/albertoortizdemendivil-debug/html-css-markup-languages) | Five coursework websites, from semantic HTML to a six-page Bootstrap 5 site built as a team project. Live demos on GitHub Pages. |
 
 ## What I work with
 
